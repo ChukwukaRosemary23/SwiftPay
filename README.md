@@ -238,8 +238,8 @@ This project is open source and available under the MIT License.
 
 **Love (Rosemary) Chukwuka**
 - Full Stack Software Engineer
-- MERN Stack | React Native | TypeScript
-- LinkedIn: [Your LinkedIn]
+- MERN Stack | React Native | TypeScript| Go
+- LinkedIn: https://www.linkedin.com/in/chukwuka-rosemary-0944b9244/
 - GitHub: [@ChukwukaRosemary23](https://github.com/ChukwukaRosemary23)
 
 ---
@@ -256,8 +256,8 @@ This project is open source and available under the MIT License.
 ## 📞 Contact
 
 For questions, collaborations, or opportunities:
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
+- Email: chukwukarosemary2020@gmail.com
+- LinkedIn: https://www.linkedin.com/in/chukwuka-rosemary-0944b9244/****
 
 ---
 
