@@ -6,6 +6,10 @@ A full-featured mobile banking app built with React Native, featuring **restrict
 
 ---
 
+**[📥 Try SwiftPay (Download APK)](https://expo.dev/accounts/uchechi1998/projects/swiftpay/builds/6ee9a5b3-2139-4162-baef-14e972fd645a)** | **[📺 Watch Demo](#-screenshots)** | **[📖 Documentation](#-features)**
+
+---
+
 ## 🚀 Key Innovation: Restricted Spending
 
 **The Problem:** Nigerian diaspora sends $25 BILLION home yearly, but families often misuse funds - hospital money goes to food, school fees to shopping.
@@ -102,6 +106,31 @@ A full-featured mobile banking app built with React Native, featuring **restrict
 </p>
 
 ---
+
+## 📦 Download & Install
+
+### Try SwiftPay Now! (Android)
+
+**[📥 Download SwiftPay APK](https://expo.dev/accounts/uchechi1998/projects/swiftpay/builds/6ee9a5b3-2139-4162-baef-14e972fd645a)**
+
+**Installation Instructions:**
+1. Click the download link on your Android phone
+2. Download the APK file
+3. Open the downloaded file
+4. Allow "Install from unknown sources" if prompted
+5. Install and launch SwiftPay!
+
+**Test Credentials:**
+- Use Face ID/Touch ID to login
+- Explore all 11 features
+
+**System Requirements:**
+- Android 6.0 or higher
+- 100 MB free storage
+- Internet connection for maps and payments
+
+---
+
 
 ## 🏃‍♂️ Getting Started
 
