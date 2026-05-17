@@ -1,0 +1,50 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "maintainer",
+    "name": "Rosemary (Uche) Chukwuka",
+    "email": "chukwukarosemary2020@gmail.com",
+    "description": "Self-taught full-stack software engineer from Nigeria building open source fintech tools for African communities.",
+    "webpageUrl": {
+      "url": "https://www.linkedin.com/in/chukwuka-rosemary-0944b9244/"
+    }
+  },
+  "projects": [
+    {
+      "guid": "swiftpay",
+      "name": "SwiftPay",
+      "description": "Open source mobile banking app with purpose-restricted spending transfers — solving remittance misuse for Nigerian diaspora sending $25B home yearly. Built with React Native, TypeScript, and Paystack.",
+      "webpageUrl": {
+        "url": "https://github.com/ChukwukaRosemary23/SwiftPay"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/ChukwukaRosemary23/SwiftPay"
+      },
+      "licenses": ["spdx:MIT"],
+      "tags": ["fintech", "react-native", "mobile", "africa", "remittance", "typescript"]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "github-sponsors",
+        "type": "payment-provider",
+        "address": "https://github.com/sponsors/ChukwukaRosemary23",
+        "description": "Support via GitHub Sponsors"
+      }
+    ],
+    "plans": [
+      {
+        "guid": "general-support",
+        "status": "active",
+        "name": "General Development Support",
+        "description": "Support ongoing development of SwiftPay and future open source fintech tools for African communities.",
+        "amount": 0,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": ["github-sponsors"]
+      }
+    ]
+  }
+}
